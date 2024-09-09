@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="674373a6-656d-488d-843e-d542391c0f4b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/DiceSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/MazeProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/NumberPadQues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/CountZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/Fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/Nto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/NumOfSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/RotatedBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/SortedOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursionBasic/productOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/SkipCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/Subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2lkjXUL7zHEKnB19fKxpsEXR5k8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/I561225/Documents/MyStuff/MyStuff/JAVA/Recursion/src"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="674373a6-656d-488d-843e-d542391c0f4b" name="Changes" comment="" />
+      <created>1725731007536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725731007536</updated>
+    </task>
+    <servers />
+  </component>
+</project>
